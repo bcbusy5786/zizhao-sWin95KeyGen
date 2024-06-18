@@ -40,7 +40,7 @@ print ('否则所造成的一切后果均与作者无关！')
 
 print ()
 print ('此次生成的密钥是：')
-print (a,b,c,'-',d,e,f,g,h,i,j,set='')
+print (a,b,c,'-',d,e,f,g,h,i,j,sep='')
 
 print ('20秒后自动退出……')
 time.sleep(20)
