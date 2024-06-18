@@ -50,13 +50,13 @@ q = (random.randint(0, 9))
 
 
 print ('欢迎使用Windows 95密钥生成工具！')
-print ('（0.1-Beta-OSR）')
+print ('（0.1-Beta-2-OSR）')
 print ('此工具可以快速帮你生成Windows 95的密钥！')
 print ('严禁用于非法用途！')
 print ('否则所造成的一切后果均与作者无关！')
 
 print ()
 print ('此次生成的密钥是：')
-print (a,b,c,k,l,'- O E M -',j,d,e,f,g,h,i,'-',m,n,o,p,q)
+print (a,b,c,k,l,'- O E M -',j,d,e,f,g,h,i,'-',m,n,o,p,q,set='')
 
 time.sleep(20)
