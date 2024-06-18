@@ -57,6 +57,6 @@ print ('否则所造成的一切后果均与作者无关！')
 
 print ()
 print ('此次生成的密钥是：')
-print (a,b,c,k,l,'- O E M -',j,d,e,f,g,h,i,'-',m,n,o,p,q,set='')
+print (a,b,c,k,l,'- O E M -',j,d,e,f,g,h,i,'-',m,n,o,p,q,sep='')
 
 time.sleep(20)
